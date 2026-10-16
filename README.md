@@ -4,4 +4,4 @@
 * A5 V3*
 ## Tutorials
 
-- [Optical switch modification tutorial](docs/optical-switch-mod-tutorial.md)
+- [Optical switch modification tutorial](docs/tutorial.md)
